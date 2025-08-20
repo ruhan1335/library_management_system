@@ -68,6 +68,6 @@ Add categories/authors for each book.
 User authentication (Admin/Student roles).
 
 # Author
-Developed by [Your Name]
+Developed by [MD.Ruhan Tanveer]
 
 A simple project for learning C++ basics & data structures
