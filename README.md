@@ -1,11 +1,10 @@
-📚 Library Management System (C++)
- Project Overview
+# Library Management System (C++)
+# Project Overview
 
 This is a simple Library Management System built in C++.
 The program allows users to manage a small collection of books through a console-based menu.
-
+ 
 Users can:
-
 View the list of all available books
 
 Add a new book to the library
@@ -24,8 +23,7 @@ Input/Output operations
 
 Basic menu-driven system
 
- Features
-
+# Features
 Show Books → Displays all books currently in the library.
 
 Add Book → Lets the user add a new book by name.
@@ -34,26 +32,23 @@ Remove Book → Removes a selected book from the list.
 
 Exit → Safely closes the program.
 
- Technologies Used
-
+# Technologies Used
 Language: C++
 
 Libraries: iostream, vector, string
 
-How to Run
-
+# How to Run
 Copy the code into a file named main.cpp
 
 Compile using any C++ compiler, e.g.:
 
 g++ main.cpp -o library
 
-
 Run the program:
 
 ./library
 
-📌 Example Usage
+# Example Usage
 === Library Management System ===
 1. Show all books
 2. Add a new book
@@ -63,8 +58,7 @@ Enter your choice (1/2/3/4): 2
 Enter the name of the new book: C++ Basics
 'C++ Basics' has been added to the library.
 
-🚀 Future Improvements
-
+# Future Improvements
 Add search functionality (find a book by name).
 
 Save book list to a file/database for persistence.
@@ -73,8 +67,7 @@ Add categories/authors for each book.
 
 User authentication (Admin/Student roles).
 
-👨‍💻 Author
-
+# Author
 Developed by [Your Name]
 
 A simple project for learning C++ basics & data structures
